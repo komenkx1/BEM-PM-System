@@ -1,0 +1,7 @@
+#DIRECT AWAL KE
+DirectoryIndex index.php
+
+#HTTP TO HTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

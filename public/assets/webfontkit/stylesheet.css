@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'museo700';
+    src: url('museo700-regular-webfont.woff2') format('woff2'),
+         url('museo700-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'photograph_signature';
+    src: url('photograph_signature-webfont.woff2') format('woff2'),
+         url('photograph_signature-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

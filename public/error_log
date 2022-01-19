@@ -1,0 +1,2 @@
+[21-Nov-2021 14:54:25 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1052672 bytes) in /home/bemudaya/public_html/vendor/symfony/mime/FileinfoMimeTypeGuesser.php on line 60
+[30-Nov-2021 11:47:35 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1052672 bytes) in /home/bemudaya/public_html/vendor/symfony/mime/FileinfoMimeTypeGuesser.php on line 60
